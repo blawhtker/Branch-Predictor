@@ -3,7 +3,6 @@ import sys
 import os
 
 # --- Import Logic ---
-# Changed 'BranchPredictorSim.py' to 'sim' to match your filename
 try:
     from sim import run_simulation
     print("Successfully imported simulator from sim.py")
